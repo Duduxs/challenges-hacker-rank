@@ -33,7 +33,7 @@ public class GradientStudents {
 	
 	public static void main(String[] args) {
 		
-		int[] arr = {10,5,20,20,4,5,2,25,1};
+
 		int[] arr2 = {3, 4, 21, 36, 10, 28, 35, 5, 24, 42};
 		
 		int[] arr3 = breakingRecords(arr2);

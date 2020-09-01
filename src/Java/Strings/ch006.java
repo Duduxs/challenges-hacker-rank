@@ -20,6 +20,7 @@ public class ch006 {
 		String s = keyboard.nextLine();
 		s = remove(s);
 		
+		
 		String split[] = s.split("[^a-zA-Z]+");
 		
 		System.out.println(split.length);

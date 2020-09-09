@@ -12,11 +12,8 @@ public class ch003 {
 		BigInteger a = keyboard.nextBigInteger();
 		BigInteger b = keyboard.nextBigInteger();
 		
-		
 		System.out.println(a.add(b));
 		System.out.println(a.multiply(b));
-		
-		
 		
 		keyboard.close();
 	}

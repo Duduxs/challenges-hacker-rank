@@ -37,9 +37,7 @@ public class ch004 {
 			catch(RuntimeException exception) {
 				System.out.println("ERROR!");
 			}
-			finally {
-		
-			}
+
 		}
 		keyboard.close();
 		
